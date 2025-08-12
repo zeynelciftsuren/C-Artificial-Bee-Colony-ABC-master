@@ -6,7 +6,7 @@ This project is an Artificial Bee Colony (ABC) algorithm application developed u
 ---
 
 # App Image
-![](https://github.com/zeynelciftsuren/C-Artificial-Bee-Colony-ABC-master/blob/main/abc.jpg)
+![](https://github.com/zeynelciftsuren/C-Artificial-Bee-Colony-ABC-master/blob/main/abc1.jpg)
 
 ### README.md Content
 
